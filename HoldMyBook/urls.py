@@ -18,9 +18,11 @@ from django.urls import path
 from HoldMyBook import views
 
 urlpatterns = [
+    path('', views.Home),
     path('admin/', admin.site.urls),
     path('about-us/', views.aboutUs),
-    path('', views.Home),
+    path('product/', views.product),
+    path('product/<name>', views.sProduct),
     
 ]
 1
