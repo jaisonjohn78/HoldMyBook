@@ -6,7 +6,7 @@ Online Library Management System is an Automated Library System that handles the
 
 ## Documentation
 
-[documentation.ppt](https://linktodocumentation)
+[documentation.ppt](https://github.com/jaisonjohn78/HoldMyBook/blob/master/Final_presentation_Group_30.pptx?raw=true)
 
 
 ## Badges
