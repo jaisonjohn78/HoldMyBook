@@ -14,6 +14,13 @@ def product(request):
 def sProduct(reqest, name):
     return render(reqest, "single-product1.html")
 
+def login(request):
+    return render(request, "login.html")
+
+def register(request):
+    return render(request, "register.html")
+
+
 def userGetForm(request):
     answer=0
     try:

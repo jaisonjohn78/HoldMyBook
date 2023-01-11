@@ -23,6 +23,8 @@ urlpatterns = [
     path('about-us/', views.aboutUs),
     path('product/', views.product),
     path('product/<name>', views.sProduct),
+    path('login', views.login),
+    path('register', views.register),
     
 ]
 1
