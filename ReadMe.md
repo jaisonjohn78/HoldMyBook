@@ -6,7 +6,7 @@ Online Library Management System is an Automated Library System that handles the
 
 ## Documentation
 
-[documentation.ppt](https://linktodocumentation)
+[documentation.pptx](https://github.com/jaisonjohn78/HoldMyBook/blob/master/Final_presentation_Group_30.pptx?raw=true)
 
 
 ## Badges
@@ -59,16 +59,11 @@ Create Super-user
 
 ## Run Server
 
-To deploy this project run
+To run this project 
 
 ```bash
   python manage.py runserver
 ```
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 
 ## Acknowledgements
